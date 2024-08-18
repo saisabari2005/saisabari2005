@@ -19,5 +19,4 @@ One of my notable projects includes a **Sentiment Text Analysis** tool, where I 
 
 ## Contact
 
-- 📧 Email: [saisabarirahul@gmail.com](mailto:saisabarirahul@gmail.com)
 - 🔗 LinkedIn: [Sai Sabarinath K](https://www.linkedin.com/in/sai-sabarinath-k-14bb42321/)
