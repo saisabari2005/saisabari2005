@@ -60,8 +60,4 @@ I enjoy building projects that combine data, AI models, and real-world applicati
 - 🔗 LinkedIn: [Sai Sabarinath K](https://www.linkedin.com/in/sai-sabarinath-k-14bb42321/)  
 - 📧 Email: saisabarirahul@gmail.com  
 
----
 
-## GitHub Stats
-
-![Saisabarinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisabari2005&show_icons=true&theme=radical)
