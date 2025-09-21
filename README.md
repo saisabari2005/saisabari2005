@@ -16,8 +16,8 @@ I enjoy building projects that combine data, AI models, and real-world applicati
 - Apache Airflow | PySpark | Streamlit | Django  
 
 **Frameworks & Libraries:**  
-- TensorFlow | PyTorch | scikit-learn | Hugging Face Transformers  
-- OpenCV | LangChain | FAISS | Groq AI  
+- TensorFlow | NLTK (Natural Language Toolkit) | scikit-learn | Hugging Face Transformers  
+- OpenCV | LangChain | Groq AI | spaCy | Gensim | TextBlob 
 
 ---
 
