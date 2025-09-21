@@ -26,7 +26,6 @@ I enjoy building projects that combine data, AI models, and real-world applicati
 ### Sentiment Text Analysis
 - Built a **sentiment analysis tool** to detect emotions from text and articles.  
 - Leveraged NLP techniques, machine learning, and Streamlit for a web interface.  
-- [GitHub Repository](https://github.com/saisabari2005/Sentiment_Text_Analysis-with-Twitter-data--Article-Text)
 
 ### Intent Recognition for Virtual Assistants
 - Developed an end-to-end **intent recognition system** for virtual assistants.  
@@ -39,7 +38,8 @@ I enjoy building projects that combine data, AI models, and real-world applicati
 ---
 
 ## Achievements & Certifications
-- Completed **Offline Internship** at Shiash Info Solutions  
+- Completed a 3 Month **Offline Internship** at Shiash Info Solutions
+- Commpleted a **Online Internship** at Pantech Ai   
 - Hands-on experience with **Big Data tools** and real-world projects  
 - Actively learning **AI, NLP, and Deep Learning** through projects and self-study  
 
