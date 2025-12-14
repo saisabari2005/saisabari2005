@@ -3,7 +3,7 @@
 ## About Me
 
 Hello! I'm **Saisabarinath**, currently pursuing a **B.Tech in Artificial Intelligence & Data Science** at Jeppiaar Engineering College.  
-My journey in the tech world revolves around exploring the endless possibilities of **AI 🤖**, **Natural Language Processing (NLP) 🗣️**, **Data Science (DS) 📊**, **Machine Learning (ML) 📚**, **Deep Learning (DL) 🧠**, **Computer Vision (CV) 👁️** and **Speech and Audio Processing**
+My journey in the tech world revolves around exploring the endless possibilities of **AI 🤖**, **Natural Language Processing (NLP) 🗣️**, **Data Science (DS) 📊**, **Machine Learning (ML) 📚**, **Deep Learning (DL) 🧠**, **Computer Vision (CV) 👁️** and **Speech and Audio Processing🎶**
 
 I enjoy building projects that combine data, AI models, and real-world applications to create meaningful solutions.
 
@@ -78,7 +78,8 @@ Matplotlib | Spectrogram & Waveform Analysis
 - **Data Science (DS) 📊**  
 - **Machine Learning (ML) 📚**  
 - **Deep Learning (DL) 🧠**  
-- **Computer Vision (CV) 👁️**  
+- **Computer Vision (CV) 👁️**
+- **Speech and Audio Processing🔊** 
 
 ---
 
