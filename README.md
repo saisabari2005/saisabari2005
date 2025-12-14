@@ -12,7 +12,7 @@ I enjoy building projects that combine data, AI models, and real-world applicati
 ## 🛠️ Skills
 
 ### Languages
-Python | SQL | Bash | YAML | Markdown
+Python | SQL | Bash |HTML,CSS,JS
 
 ### OS & Environments
 Linux (Ubuntu – WSL2) | Windows | Conda | venv | CUDA
@@ -21,30 +21,31 @@ Linux (Ubuntu – WSL2) | Windows | Conda | venv | CUDA
 Git | GitHub | VS Code | Jupyter Notebook | WinSCP
 
 ### Backend & Web
-Django | Streamlit | REST APIs | Authentication Systems
+Streamlit | FAST API | Flask
 
 ### Data Engineering
-Apache Airflow | PySpark | ETL Pipelines
+Apache Airflow | PySpark | ETL Pipelines 
 
 ### ML & DL
-PyTorch | TensorFlow | scikit-learn | TorchAudio | Mixed Precision Training
+PyTorch | TensorFlow | scikit-learn | TorchAudio | Torchvision| Mixed Precision Training
 
 ### NLP
-NLTK | spaCy | Gensim | TextBlob | Hugging Face Transformers  
-Sentiment Analysis | Intent Recognition | ATS Resume Matching
+Text Classification | NER | Summarization |Transformers | Embeddings 
+Semantic Search |RAG Systems | Prompt-based NLP | NLTK | spaCy | Hugging Face
 
 ### Speech & Audio AI
 ESPnet | SpeechBrain | S3PRL | Fairseq | RNNoise | NARA-WPE  
 ASR | TTS | SLU | Speech Enhancement | Speaker Embeddings
 
 ### Computer Vision
-OpenCV | Action Recognition | Video Classification | 3D CNNs
+OpenCV | CNNs | Vision Transformers |Image Classification | Object Detection 
+Object Segmentation |Video & Action Recognition | Real-time Deployment
 
 ### GenAI & LLMs
-LangChain | Groq AI | Prompt Engineering | AI Interview Systems
+LangChain | Groq AI | Prompt Engineering | Langflow | RAG Architecture | Embeddings | Vector Databases  
 
 ### Visualization
-Matplotlib | Spectrogram & Waveform Analysis
+Matplotlib | Spectrogram & Waveform Analysis|Seaborn
 
 ---
 
