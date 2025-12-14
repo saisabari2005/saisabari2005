@@ -9,15 +9,42 @@ I enjoy building projects that combine data, AI models, and real-world applicati
 
 ---
 
-## Skills
+## 🛠️ Skills
 
-**Languages & Tools:**  
-- Python 🐍 | SQL | Linux 🖥️ | Git & GitHub  
-- Apache Airflow | PySpark | Streamlit | Django  
+### Languages
+Python | SQL | Bash | YAML | Markdown
 
-**Frameworks & Libraries:**  
-- TensorFlow | NLTK (Natural Language Toolkit) | scikit-learn | Hugging Face Transformers  
-- OpenCV | LangChain | Groq AI | spaCy | Gensim | TextBlob 
+### OS & Environments
+Linux (Ubuntu – WSL2) | Windows | Conda | venv | CUDA
+
+### Version Control & Tools
+Git | GitHub | VS Code | Jupyter Notebook | WinSCP
+
+### Backend & Web
+Django | Streamlit | REST APIs | Authentication Systems
+
+### Data Engineering
+Apache Airflow | PySpark | ETL Pipelines
+
+### ML & DL
+PyTorch | TensorFlow | scikit-learn | TorchAudio | Mixed Precision Training
+
+### NLP
+NLTK | spaCy | Gensim | TextBlob | Hugging Face Transformers  
+Sentiment Analysis | Intent Recognition | ATS Resume Matching
+
+### Speech & Audio AI
+ESPnet | SpeechBrain | S3PRL | Fairseq | RNNoise | NARA-WPE  
+ASR | TTS | SLU | Speech Enhancement | Speaker Embeddings
+
+### Computer Vision
+OpenCV | Action Recognition | Video Classification | 3D CNNs
+
+### GenAI & LLMs
+LangChain | Groq AI | Prompt Engineering | AI Interview Systems
+
+### Visualization
+Matplotlib | Spectrogram & Waveform Analysis
 
 ---
 
