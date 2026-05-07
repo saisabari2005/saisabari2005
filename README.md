@@ -88,5 +88,5 @@ Matplotlib | Spectrogram & Waveform Analysis|Seaborn
 
 - 🔗 LinkedIn: [Sai Sabarinath K](https://www.linkedin.com/in/sai-sabarinath-k-14bb42321/)  
 - 📧 Email: saisabarirahul@gmail.com  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saisabari2005&show_icons=true&include_all_commits=true)
 
