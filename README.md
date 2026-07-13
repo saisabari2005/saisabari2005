@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="./SAI.svg" width="300" alt="Saisabarinath" />
 
 </div>
 
