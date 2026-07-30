@@ -9,8 +9,8 @@ My journey in the tech world revolves around exploring the endless possibilities
 I enjoy building projects that combine data, AI models, and real-world applications to create meaningful solutions.
 
 <div align="center">
-
-```
+<pre>
+                                .....    .::-::...
                               ::.::.    ::-......   ...
                             ...--::.    -:..   ..::..-:...
                       .  ...:: :.         .        ..:-=-:...
@@ -55,9 +55,9 @@ I enjoy building projects that combine data, AI models, and real-world applicati
               .:@@@@@@@@@@+*###=                   .+**#*=#@@@@@@@@@:
            .-#@@@@@@@@@@@@@-+#%%#*+:             -+****+-:@@@@@@@@@@@@@%-.
        :+@@@@@@@@@@@@@@@@@@@-+#%%%#*+=--:.    .=++**#*+-.@@@@@@@@@@@@@@@@@@@=.
-   .+@@@@@@@@@@@@@@@@@@@@@@@@:=*#%%###**+++=++++**##*+-.#@@@@@@@@@@@@@@@@@@@@@@
-```
-
+   .+@@@@@@@@@@@@@@@@@@@@@@@@:=*#%%###**+++=++++**##*+-.#@@@@@@@@@@@@@@@@@@@@@@@+.
+=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@--+**######***********+-.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:
+</pre>
 </div>
 
 ---
@@ -140,4 +140,4 @@ Matplotlib | Spectrogram & Waveform Analysis | Seaborn
 ## Contact
 
 - 🔗 LinkedIn: [Sai Sabarinath K](https://www.linkedin.com/in/sai-sabarinath-k-14bb42321/)  
-- 📧 Email: saisabarirahul@gmail.com  
+- 📧 Email: saisabarirahul@gmail.com
