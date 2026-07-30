@@ -86,11 +86,10 @@ Matplotlib | Spectrogram & Waveform Analysis | Seaborn
 
 ---
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="left" valign="top" style="border: none;">
-
-```
+<table border="0">
+  <tr>
+    <td valign="top">
+<pre>
                         ‰èw  Æµ­@´ ¨                        
                        r      ›  ¨«ñÆUs                     
                    5æª H&³ƒ¨  ’        •l´                  
@@ -120,24 +119,19 @@ Matplotlib | Spectrogram & Waveform Analysis | Seaborn
  ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ‰ÑÆÆÆÆ)vvÆÆF­ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ 
 ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆWÆÆSÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆT
 ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÑÅÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
-```
-
+</pre>
     </td>
-    <td align="left" valign="middle" style="border: none; padding-left: 20px;">
-
-### 🚀 Engineering the Future with AI & Data
-
-> *"Driven by curiosity, fueled by data, and dedicated to engineering intelligent solutions that create real impact."*
-
-#### ✨ What I Bring to the Table
-- 🧠 **Deep Learning & Neural Architectures**  
-- 🗣️ **Speech & Natural Language Processing**  
-- 👁️ **Computer Vision & Real-Time Intelligence**  
-- ⚡ **GenAI, RAG Architectures & Big Data Pipelines**  
-
----
-💡 *“The best way to predict the future is to invent it.”*
-
+    <td valign="middle" style="padding-left: 20px;">
+      <h3>🚀 Engineering the Future with AI &amp; Data</h3>
+      <p><i>"Driven by curiosity, fueled by data, and dedicated to engineering intelligent solutions that create real impact."</i></p>
+      <h4>✨ What I Bring to the Table:</h4>
+      <ul>
+        <li>🧠 <b>Deep Learning &amp; Neural Architectures</b></li>
+        <li>🗣️ <b>Speech &amp; Natural Language Processing</b></li>
+        <li>👁️ <b>Computer Vision &amp; Real-Time Intelligence</b></li>
+        <li>⚡ <b>GenAI, RAG Architectures &amp; Big Data Pipelines</b></li>
+      </ul>
+      <p>💡 <i>“The best way to predict the future is to invent it.”</i></p>
     </td>
   </tr>
 </table>
