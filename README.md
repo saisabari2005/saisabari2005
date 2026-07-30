@@ -1,13 +1,50 @@
 # Saisabarinath 👋
 
-## About Me
-
-Hello! If you're looking for someone to solve complex problems and build innovative AI solutions, you're in the right place. Let's connect and have a great discussion!. 
-
-
-My journey in the tech world revolves around exploring the endless possibilities of **AI 🤖**, **Natural Language Processing (NLP) 🗣️**, **Data Science (DS) 📊**, **Machine Learning (ML) 📚**, **Deep Learning (DL) 🧠**, **Computer Vision (CV) 👁️** and **Speech and Audio Processing🎶**
-
-I enjoy building projects that combine data, AI models, and real-world applications to create meaningful solutions.
+<table border="0">
+  <tr>
+    <td valign="top">
+<pre>
+                        ‰èw  Æµ­@´ ¨                        
+                       r      ›  ¨«ñÆUs                     
+                   5æª H&³ƒ¨  ’        •l´                  
+                  …  ¦  ;                !(·                
+                 pM%… ` ‚    ‘               `              
+                          ˜ˆ •  `c    ¸                     
+                ´;–¹              ˜         :               
+                ¢O€x   ©Ì     ˆ             `               
+                 ¨        /vXB$vsóu+  ˆ ;  ‘                
+                     šÐ8QÆÆÆÆÆÂÃÆØþÄÛO[  „’´     `          
+                    îÆÆÆÆÆÆÆÆÆÆÆÆÆÃ{  Æg                    
+                  Æ dÆvv!   vvvv   {tÝÆÆ £À                 
+                 ²Æ!ÆÁv Æˆ´`vÆÿ) Å`   vÃ ÔW                 
+                 ´W ÆÆBêVvùü£ÆÆ±v©µANÆQÆ`v#                 
+                  ÉÈÆQÆÆÆÆÆæÕÆOvFÉÆÆÆÆÀŒ8Q}                 
+                   EëÙWËÑÆŒØÆÆÆÈËBŒØgaÜË                    
+                `    vÖãÉÆÆß}v  )MËþÒhv     `               
+                      £ŒÅˆ vvv¤}í  óW4                      
+                       äÉÍÂÆÆÆÆÆÆÊ˜yŠ                       
+                     ÆÆ €ŒWvvvvv<TNm  ÆL                    
+                   ÆÆÆîy   ½Ëè   ´  ±vÆÆÆ                   
+                 ÆÆÆÆÆ¾vÀ          À6 ÆÆÆÆÆ                 
+             ŒÆÆÆÆÆÆÆÆÆ væÃðï   †ÀÀõ ÆÆÆÆÆÆÆÆÆÆ             
+          ÆÆÆÆÆÆÆÆÆÆÆÆÆÆ» vXB#þþãÐv þÆÆÆÆÆÆÆÆÆÆÆÆÆÆ         
+      ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ ›=òbeâ« ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆF     
+  lÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ…tÆÆ¿’ƒv[ ÆÊ2ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  
+ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ‰ÑÆÆÆÆ)vvÆÆF­ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ 
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆWÆÆSÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆT
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÑÅÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
+ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
+</pre>
+    </td>
+    <td valign="middle" style="padding-left: 20px;">
+      <h2>About Me</h2>
+      <p>Hello! If you're looking for someone to solve complex problems and build innovative AI solutions, you're in the right place. Let's connect and have a great discussion!.</p>
+      <p>My journey in the tech world revolves around exploring the endless possibilities of <b>AI 🤖</b>, <b>Natural Language Processing (NLP) 🗣️</b>, <b>Data Science (DS) 📊</b>, <b>Machine Learning (ML) 📚</b>, <b>Deep Learning (DL) 🧠</b>, <b>Computer Vision (CV) 👁️</b> and <b>Speech and Audio Processing🎶</b>.</p>
+      <p>I enjoy building projects that combine data, AI models, and real-world applications to create meaningful solutions.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -83,58 +120,6 @@ Matplotlib | Spectrogram & Waveform Analysis | Seaborn
 - **Deep Learning (DL) 🧠**  
 - **Computer Vision (CV) 👁️**
 - **Speech and Audio Processing🔊** 
-
----
-
-<table border="0">
-  <tr>
-    <td valign="top">
-<pre>
-                        ‰èw  Æµ­@´ ¨                        
-                       r      ›  ¨«ñÆUs                     
-                   5æª H&³ƒ¨  ’        •l´                  
-                  …  ¦  ;                !(·                
-                 pM%… ` ‚    ‘               `              
-                          ˜ˆ •  `c    ¸                     
-                ´;–¹              ˜         :               
-                ¢O€x   ©Ì     ˆ             `               
-                 ¨        /vXB$vsóu+  ˆ ;  ‘                
-                     šÐ8QÆÆÆÆÆÂÃÆØþÄÛO[  „’´     `          
-                    îÆÆÆÆÆÆÆÆÆÆÆÆÆÃ{  Æg                    
-                  Æ dÆvv!   vvvv   {tÝÆÆ £À                 
-                 ²Æ!ÆÁv Æˆ´`vÆÿ) Å`   vÃ ÔW                 
-                 ´W ÆÆBêVvùü£ÆÆ±v©µANÆQÆ`v#                 
-                  ÉÈÆQÆÆÆÆÆæÕÆOvFÉÆÆÆÆÀŒ8Q}                 
-                   EëÙWËÑÆŒØÆÆÆÈËBŒØgaÜË                    
-                `    vÖãÉÆÆß}v  )MËþÒhv     `               
-                      £ŒÅˆ vvv¤}í  óW4                      
-                       äÉÍÂÆÆÆÆÆÆÊ˜yŠ                       
-                     ÆÆ €ŒWvvvvv<TNm  ÆL                    
-                   ÆÆÆîy   ½Ëè   ´  ±vÆÆÆ                   
-                 ÆÆÆÆÆ¾vÀ          À6 ÆÆÆÆÆ                 
-             ŒÆÆÆÆÆÆÆÆÆ væÃðï   †ÀÀõ ÆÆÆÆÆÆÆÆÆÆ             
-          ÆÆÆÆÆÆÆÆÆÆÆÆÆÆ» vXB#þþãÐv þÆÆÆÆÆÆÆÆÆÆÆÆÆÆ         
-      ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ ›=òbeâ« ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆF     
-  lÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ…tÆÆ¿’ƒv[ ÆÊ2ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ  
- ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ‰ÑÆÆÆÆ)vvÆÆF­ ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ 
-ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆWÆÆSÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆT
-ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÑÅÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
-</pre>
-    </td>
-    <td valign="middle" style="padding-left: 20px;">
-      <h3>🚀 Engineering the Future with AI &amp; Data</h3>
-      <p><i>"Driven by curiosity, fueled by data, and dedicated to engineering intelligent solutions that create real impact."</i></p>
-      <h4>✨ What I Bring to the Table:</h4>
-      <ul>
-        <li>🧠 <b>Deep Learning &amp; Neural Architectures</b></li>
-        <li>🗣️ <b>Speech &amp; Natural Language Processing</b></li>
-        <li>👁️ <b>Computer Vision &amp; Real-Time Intelligence</b></li>
-        <li>⚡ <b>GenAI, RAG Architectures &amp; Big Data Pipelines</b></li>
-      </ul>
-      <p>💡 <i>“The best way to predict the future is to invent it.”</i></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
