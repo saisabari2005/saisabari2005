@@ -86,13 +86,6 @@ Matplotlib | Spectrogram & Waveform Analysis | Seaborn
 
 ---
 
-## Contact
-
-- 🔗 LinkedIn: [Sai Sabarinath K](https://www.linkedin.com/in/sai-sabarinath-k-14bb42321/)  
-- 📧 Email: saisabarirahul@gmail.com  
-
----
-
 <div align="center">
 
 ```
@@ -134,3 +127,10 @@ Matplotlib | Spectrogram & Waveform Analysis | Seaborn
 ```
 
 </div>  
+
+---
+
+## Contact
+
+- 🔗 LinkedIn: [Sai Sabarinath K](https://www.linkedin.com/in/sai-sabarinath-k-14bb42321/)  
+- 📧 Email: saisabarirahul@gmail.com  
