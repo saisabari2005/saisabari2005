@@ -14,11 +14,11 @@
 ---
 
 
-### Hello! If you're looking for someone to solve complex problems and build innovative AI solutions, you're in the right place. Let's connect and have a great discussion!.
+## Hello! If you're looking for someone to solve complex problems and build innovative AI solutions, you're in the right place. Let's connect and have a great discussion!.
 
-### My journey in the tech world revolves around exploring the endless possibilities of **AI 🤖**, **Natural Language Processing (NLP) 🗣️**, **Data Science (DS) 📊**, **Machine Learning (ML) 📚**, **Deep Learning (DL) 🧠**, **Computer Vision (CV) 👁️** and **Speech and Audio Processing🎶**
+My journey in the tech world revolves around exploring the endless possibilities of **AI 🤖**, **Natural Language Processing (NLP) 🗣️**, **Data Science (DS) 📊**, **Machine Learning (ML) 📚**, **Deep Learning (DL) 🧠**, **Computer Vision (CV) 👁️** and **Speech and Audio Processing🎶**
 
-### I enjoy building projects that combine data, AI models, and real-world applications to create meaningful solutions.
+I enjoy building projects that combine data, AI models, and real-world applications to create meaningful solutions.
 
 <div align="center">
 
