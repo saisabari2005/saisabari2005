@@ -13,9 +13,13 @@
 
 ---
 
-## 📌 Summary
+## About Me
 
-Results-driven **AI/ML Engineer** with hands-on experience in **Deep Learning**, **NLP**, **Computer Vision**, and **Generative AI** — including production deployment at an audio-AI startup and current work building real-world vision AI systems for the restaurant industry. Proficient in **Python**, **PyTorch**, **TensorFlow**, and **PySpark**; skilled in building end-to-end ML pipelines from data preprocessing to model deployment. Built and shipped real-world systems spanning cricket shot classification (YOLO + CNNs), RAG-based document Q&A, live AI voice interviews (LiveKit + Groq + Deepgram), and intent recognition virtual assistants. Strong DSA foundation with **100+ LeetCode** problems solved. Seeking an AI/ML Engineer role to apply generative AI and deep learning expertise at production scale.
+Hello! If you're looking for someone to solve complex problems and build innovative AI solutions, you're in the right place. Let's connect and have a great discussion!.
+
+My journey in the tech world revolves around exploring the endless possibilities of **AI 🤖**, **Natural Language Processing (NLP) 🗣️**, **Data Science (DS) 📊**, **Machine Learning (ML) 📚**, **Deep Learning (DL) 🧠**, **Computer Vision (CV) 👁️** and **Speech and Audio Processing🎶**
+
+I enjoy building projects that combine data, AI models, and real-world applications to create meaningful solutions.
 
 <div align="center">
 
