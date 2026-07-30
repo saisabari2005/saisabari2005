@@ -1,9 +1,8 @@
 # Saisabarinath 👋
 
-<table border="0">
-  <tr>
-    <td valign="top">
-<pre>
+<div align="center">
+
+```
                         ‰èw  Æµ­@´ ¨                        
                        r      ›  ¨«ñÆUs                     
                    5æª H&³ƒ¨  ’        •l´                  
@@ -35,16 +34,18 @@
 ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÑÅÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
 ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
 ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ
-</pre>
-    </td>
-    <td valign="middle" style="padding-left: 20px;">
-      <h2>About Me</h2>
-      <p>Hello! If you're looking for someone to solve complex problems and build innovative AI solutions, you're in the right place. Let's connect and have a great discussion!.</p>
-      <p>My journey in the tech world revolves around exploring the endless possibilities of <b>AI 🤖</b>, <b>Natural Language Processing (NLP) 🗣️</b>, <b>Data Science (DS) 📊</b>, <b>Machine Learning (ML) 📚</b>, <b>Deep Learning (DL) 🧠</b>, <b>Computer Vision (CV) 👁️</b> and <b>Speech and Audio Processing🎶</b>.</p>
-      <p>I enjoy building projects that combine data, AI models, and real-world applications to create meaningful solutions.</p>
-    </td>
-  </tr>
-</table>
+```
+
+</div>
+
+## About Me
+
+Hello! If you're looking for someone to solve complex problems and build innovative AI solutions, you're in the right place. Let's connect and have a great discussion!. 
+
+
+My journey in the tech world revolves around exploring the endless possibilities of **AI 🤖**, **Natural Language Processing (NLP) 🗣️**, **Data Science (DS) 📊**, **Machine Learning (ML) 📚**, **Deep Learning (DL) 🧠**, **Computer Vision (CV) 👁️** and **Speech and Audio Processing🎶**
+
+I enjoy building projects that combine data, AI models, and real-world applications to create meaningful solutions.
 
 ---
 
