@@ -173,7 +173,7 @@ I enjoy building projects that combine data, AI models, and real-world applicati
 
 ### 🤖 AI Engineer Intern | **OO Studio Inc.**
 *Oct 2025 – Jan 2026*
-- Designed and deployed a real-time **Cricket AI system** using **YOLO**, multi-object tracking, **3D pose estimation**, and **Vision-Language Models (VLMs)**, achieving accurate shot classification across 10 batting shot categories.
+- Designed and building a real-time **Cricket AI system** using **YOLO**, multi-object tracking, **3D pose estimation**, and **Vision-Language Models (VLMs)**, achieving accurate shot classification across 10 batting shot categories.
 - Integrated **TTS/STT models** and voice agent pipelines into production audio-AI products; reduced manual audio annotation effort by **~40%** through automated preprocessing pipelines.
 - Built and optimized data preprocessing and post-processing pipelines for large-scale audio and video datasets, enabling faster model training cycles.
 - Collaborated in a fast-paced startup environment on cutting-edge generative AI products spanning speech synthesis, sound effect generation, and computer vision.
